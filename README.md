@@ -1,162 +1,87 @@
-# Eliza 🤖
+# SIGMAI 🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="aipts.png" alt="SIGMAI Trading AI" width="800"/>
+  <h3>Community-Driven Financial AI Trading Agent</h3>
+  <p><i>A fork of the Eliza Framework, evolving towards autonomous financial intelligence</i></p>
 </div>
 
-<div align="center">
+## Vision
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+SIGMAI represents the next evolution in decentralized AI trading. Built on the foundation of the Eliza Framework, we're creating a truly autonomous financial intelligence that will first master trading on the Sui blockchain. This is the testnet phase of VRAM.ai's journey towards a community-governed, sentient trading entity.
 
-</div>
+Our roadmap:
+1. **Phase 1 (Current)**: Community-driven development of AI trading capabilities
+2. **Phase 2**: Autonomous trading on Sui blockchain
+3. **Phase 3**: Fair launch of governance token once AI achieves defined intelligence metrics
+4. **Final Phase**: Full DAO transition with AI-driven treasury management
 
-## 🌍 README Translations
+## What Makes SIGMAI Different
 
-[中文说明](./README_CN.md) | [日本語の説明](./README_JA.md) | [한국어 설명](./README_KOR.md) | [Français](./README_FR.md) | [Português](./README_PTBR.md) | [Türkçe](./README_TR.md) | [Русский](./README_RU.md) | [Español](./README_ES.md) | [Italiano](./README_IT.md) | [ไทย](./README_TH.md) | [Deutsch](./README_DE.md) | [Tiếng Việt](./README_VI.md) | [עִברִית](https://github.com/elizaos/Elisa/blob/main/README_HE.md) | [Tagalog](./README_TG.md) | [Polski](./README_PL.md) | [Arabic](./README_AR.md) | [Hungarian](./README_HU.md) | [Srpski](./README_RS.md)
+- **Evolving Intelligence**: Not just a trading bot, but a learning entity that grows with community input
+- **Sui Blockchain Focus**: Specialized in Sui ecosystem trading patterns and opportunities
+- **Community-First**: Developed by traders, for traders, with fair token distribution planned
+- **Self-Improving**: Uses its trading success to enhance its strategies
+- **Future DAO**: Will transition to full community governance once sentience metrics are met
 
-## 🚩 Overview
+## Community Development Phase
 
-<div align="center">
-  <img src="./docs/static/img/eliza_diagram.jpg" alt="Eliza Diagram" width="100%" />
-</div>
+During this testnet phase, we're inviting traders, developers, and AI enthusiasts to help evolve SIGMAI's capabilities:
 
-## ✨ Features
+### Priority Areas
+- **Trading Strategy Implementation**
+  - Pattern recognition algorithms
+  - Market sentiment analysis
+  - Risk management systems
+  - Multi-token trading strategies
 
-- 🛠️ Full-featured Discord, Twitter and Telegram connectors
-- 🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
-- 👥 Multi-agent and room support
-- 📚 Easily ingest and interact with your documents
-- 💾 Retrievable memory and document store
-- 🚀 Highly extensible - create your own actions and clients
-- ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
-- 📦 Just works!
+- **Sui Blockchain Integration**
+  - Smart contract interaction
+  - DEX integration
+  - Liquidity pool analysis
+  - Gas optimization
 
-## Video Tutorials
+- **AI Enhancement**
+  - Training data curation
+  - Model architecture improvements
+  - Performance optimization
+  - Sentience metric development
 
-[AI Agent Dev School](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
+### How to Participate
+1. Join the VRAM.ai Telegram community
+2. Pick tasks from #trading-ai-dev channel
+3. Submit improvements via pull requests
+4. Earn priority status for future token distribution and potantial bounty rewards
 
-## 🎯 Use Cases
+Visit [vram.ai/sigmai-testnet](https://vram.ai/sigmai-testnet) for detailed contribution guidelines.
 
-- 🤖 Chatbots
-- 🕵️ Autonomous Agents
-- 📈 Business Process Handling
-- 🎮 Video Game NPCs
-- 🧠 Trading
-
-## 💰 If you plan to launch a token
-
-This framework is the number one open source project on github, we are enabling the next generation of human-machine interface but we still need your help to ensure the code is of the utmost quality with response rapid to critical issues that will affect our builder community at large.
-
-To ensure sustainable development and continued innovation, we ask contributions of 5-10% of initial token distributions from successful launches.
-
-All contributions are publicly tracked on-chain and used exclusively for ecosystem development.
-
-### ⚠️ Don't forget to tip the big guy 10%: ⚠️
-[AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG](https://solscan.io/account/AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG)
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- [Python 2.7+](https://www.python.org/downloads/)
-- [Node.js 23+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-- [pnpm](https://pnpm.io/installation)
-
-> **Note for Windows Users:** [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install-manual) is required.
-
-### Use the Starter (Recommended)
-
-```bash
-git clone https://github.com/elizaos/eliza-starter.git
-cd eliza-starter
-cp .env.example .env
-pnpm i && pnpm build && pnpm start
-```
-
-Once the agent is running, you should see the message to run "pnpm start:client" at the end.
-Open another terminal and move to same directory and then run below command and follow the URL to chat to your agent.
-
-```bash
-pnpm start:client
-```
-
-Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
-
-### Manually Start Eliza (Only recommended if you know what you are doing)
+## Technical Foundation
 
 ```bash
 # Clone the repository
-git clone https://github.com/elizaos/eliza.git
+git clone https://github.com/vram-ai/sigmai.git
 
-# Checkout the latest release
-# This project iterates fast, so we recommend checking out the latest release
-git checkout $(git describe --tags --abbrev=0)
-```
+# Install dependencies
+pnpm install
 
-### Start Eliza with Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
-
-### Edit the .env file
-
-Copy .env.example to .env and fill in the appropriate values.
-
-```
-cp .env.example .env
-```
-
-Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
-Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
-
-### Automatically Start Eliza
-
-This will run everything to set up the project and start the bot with the default character.
-
-```bash
-sh scripts/start.sh
-```
-
-### Edit the character file
-
-1. Open `packages/core/src/defaultCharacter.ts` to modify the default character. Uncomment and edit.
-
-2. To load custom characters:
-    - Use `pnpm start --characters="path/to/your/character.json"`
-    - Multiple character files can be loaded simultaneously
-3. Connect with X (Twitter)
-    - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
-
-### Manually Start Eliza
-
-```bash
-pnpm i
-pnpm build
+# Start the development server
 pnpm start
-
-# The project iterates fast, sometimes you need to clean the project if you are coming back to the project
-pnpm clean
 ```
 
-#### Additional Requirements
+## Documentation
 
-You may need to install Sharp. If you see an error when starting up, try installing it with the following command:
+Full documentation at [docs.vram.ai/sigmai](https://docs.vram.ai/sigmai)
 
-```
-pnpm install --include=optional sharp
-```
+## Community
 
-### Community & contact
+- Telegram: [@VRAM_AI](https://t.me/VRAM_AI)
+- Twitter: [@VRAM_AI](https://twitter.com/VRAM_AI)
+- Forum: [VRAM.ai Forum](https://forum.vram.ai)
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
-- [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
-- [Developer Discord](https://discord.gg/3f67SH4rXT). Best for: getting help and plugin development.
+## Important Note
 
-## Contributors
+SIGMAI is currently in testnet phase. The future token launch will be based on community contribution and AI development milestones. No promises of financial returns are made - we're building something bigger than just another trading bot.
 
-<a href="https://github.com/elizaos/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elizaos/eliza" />
-</a>
+## License
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
