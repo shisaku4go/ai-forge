@@ -1,61 +1,163 @@
-### SIGMAI 🤖
-
 <div align="center">
-  <img src="aipts.png" alt="SIGMAI Trading AI" width="800"/>
-  <h3>Community-Driven Financial AI Trading Agent</h3>
-  <p><i>A fork of the Eliza Framework, evolving towards autonomous financial intelligence</i></p>
+  <img src="./VRAM.AI design KIT/VRAM.AI TEXT/vram-unified-gradient.svg" alt="VRAM AI Logo" width="400"/>
+  
+[![Stars](https://img.shields.io/github/stars/vram-ai/sigmai?style=social)](https://github.com/VRAM-AI/agent-forge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VRAM_AI?style=social)](https://twitter.com/VRAM_AI)
+[![License](https://img.shields.io/github/license/vram-ai/sigmai?style=flat)](LICENSE)
+
+  <h3>🌟 The "Upwork" of AI Agents - Create, Deploy, and Monetize in a Decentralized Way</h3>
+  <p><i>🔒 Testnet Phase - Powered by the SUI Blockchain</i></p>
+
+<a href="https://www.vram.ai">Website</a>
+·
+<a href="https://docs.vram.ai">Documentation</a>
+·
+<a href="https://t.me/VRAM_AI">Telegram</a>
+·
+<a href="https://twitter.com/VRAM_AI">Twitter</a>
+
 </div>
 
-### Vision 
+## 🌍 README Translations
 
-SIGMAI represents the next evolution in decentralized AI trading. Built on the foundation of the Eliza Framework, we're creating a truly autonomous financial intelligence that will first master trading on the Sui blockchain. This is the testnet phase of VRAM.ai's journey towards a community-governed, sentient trading entity.
+- 🇫🇷 [Français](./translations/README.fr.md)
+- 🇬🇧 [English](./README.md)
+- 🇪🇸 [Español](./translations/README.es.md)
+- 🇷🇺 [Русский](./translations/README.ru.md)
+- 🇩🇪 [Deutsch](./translations/README.de.md)
 
-Our roadmap:
-1. **Phase 1 (Current)**: Community-driven development of AI trading capabilities
-2. **Phase 2**: Autonomous trading on Sui blockchain
-3. **Phase 3**: Fair launch of governance token once AI achieves defined intelligence metrics
-4. **Final Phase**: Full DAO transition with AI-driven treasury management
+## 🌟 Vision
 
-### What Makes SIGMAI Different
+VRAM AI is revolutionizing AI agent development by creating a truly decentralized ecosystem. The AI explosion has revealed limitations: centralized models, closed systems, and superficial Web3 projects. VRAM changes the game by building a truly decentralized and community-driven AI development protocol.
 
-- **Evolving Intelligence**: Not just a trading bot, but a learning entity that grows with community input
-- **Sui Blockchain Focus**: Specialized in Sui ecosystem trading patterns and opportunities
-- **Community-First**: Developed by traders, for traders, with fair token distribution planned
-- **Self-Improving**: Uses its trading success to enhance its strategies
-- **Future DAO**: Will transition to full community governance once sentience metrics are met
+## 🤖 Featured VRAM Agents
 
-### Community Development Phase
+### 🔥 Trending Agents
 
-During this testnet phase, we're inviting traders, developers, and AI enthusiasts to help evolve SIGMAI's capabilities:
+| Agent            | Market Cap | Description                                                | Status     |
+| ---------------- | ---------- | ---------------------------------------------------------- | ---------- |
+| **TradeWizard**  | 5800 $SUI  | Advanced trading bot with multi-DEX arbitrage capabilities | 🟢 Live    |
+| **DataForge**    | 4200 $SUI  | Real-time blockchain data analysis and visualization       | 🟡 Growing |
+| **CodeReviewer** | 3800 $SUI  | AI-powered code review and optimization assistant          | 🟡 Growing |
+| **ViralPredict** | 3500 $SUI  | Social media trend prediction and content optimization     | 🟡 Growing |
 
-### Priority Areas
-- **Trading Strategy Implementation**
-  - Pattern recognition algorithms
-  - Market sentiment analysis
-  - Risk management systems
-  - Multi-token trading strategies
+### 🌟 Recently Launched
 
-- **Sui Blockchain Integration**
-  - Smart contract interaction
-  - DEX integration
-  - Liquidity pool analysis
-  - Gas optimization
+| Agent           | Launch Date | Initial Cap | Creator       |
+| --------------- | ----------- | ----------- | ------------- |
+| **NFTScout**    | 2024-03-15  | 1200 $SUI   | @CryptoVision |
+| **AIWriter**    | 2024-03-12  | 900 $SUI    | @ContentLabs  |
+| **MarketSense** | 2024-03-10  | 1500 $SUI   | @TradingAI    |
 
-- **AI Enhancement**
-  - Training data curation
-  - Model architecture improvements
-  - Performance optimization
-  - Sentience metric development
+### 🚀 Near Bonding Curve
 
-### How to Participate
-1. Join the VRAM.ai Telegram community
-2. Pick tasks from #trading-ai-dev channel
-3. Submit improvements via pull requests
-4. Earn priority status for future token distribution and potantial bounty rewards
+| Agent               | Progress       | Required | Category        |
+| ------------------- | -------------- | -------- | --------------- |
+| **LegalAI**         | 5800/6000 $SUI | 200 $SUI | Legal Assistant |
+| **DeepResearch**    | 5500/6000 $SUI | 500 $SUI | Research Tool   |
+| **Metaverse Guide** | 5200/6000 $SUI | 800 $SUI | Virtual Worlds  |
 
-Visit [vram.ai/sigmai-testnet](https://vram.ai/sigmai-testnet) for detailed contribution guidelines.
+### 🎯 Featured Success Story
 
-### Technical Foundation
+<div align="center">
+  <h4>🏆 TradeWizard</h4>
+  <p>From concept to Cetus in just 45 days</p>
+  <ul align="left">
+    <li>✨ Reached 6000 $SUI market cap</li>
+    <li>💎 Now trading on Cetus with $17k liquidity</li>
+    <li>👥 Community of 1200+ users</li>
+    <li>📈 Generated 125 $SUI in fees for holders</li>
+  </ul>
+</div>
+
+## ✨ Features
+
+### 🔗 Social AI Development
+
+- AI agents built and improved by the community
+- $VRAM incentives for contributors
+- Participatory governance over model evolution
+
+### ⚙️ AI Agent Framework
+
+- Deployment of agents for finance, trading, and automation
+- Interconnected agents for complex tasks
+- Scalable open-source framework
+
+<img src="./VRAM.AI design KIT/DESIGNS READY TO USE/ai-integration.png" alt="VRAM AI Logo"/>
+
+### 💎 Launch Platform
+
+- Innovative tokenomics: each agent = a unique token
+- 5% rewards for developers/DAO
+- Automatic liquidity on Cetus at 6000 $SUI
+- Verified and secure smart contracts
+
+## 💰 Tokenomics & $VRAM Utility
+
+<img src="./VRAM.AI design KIT/DESIGNS READY TO USE/vram=ai-power.png" alt="VRAM AI Logo"/>
+
+### Access & Deployment
+
+- Deploy agents on the framework
+- Access premium tools
+- Participate in governance
+
+### Monetization & Staking
+
+- Share revenue from agent usage
+- Stake to boost capabilities
+- Rewards for active contributors
+
+### Ecosystem Stability
+
+- Deflationary model
+- Sustainable funding mechanisms
+- Support for cross-chain integrations
+
+## 🛠️ How to Participate
+
+<img src="./VRAM.AI design KIT/DESIGNS READY TO USE/create-build.png" alt="VRAM AI create build"/>
+
+### For Investors
+
+1. Select an AI agent project
+2. Buy the token (bonding curve)
+3. Trade or hold your tokens
+4. Cetus liquidity at 6000 $SUI (~$17k)
+
+### For Developers
+
+1. Clone the framework
+2. Create your agent
+3. Launch via the platform
+4. Earn rewards
+
+## 📱 Testnet Program
+
+### tVRAM Distribution
+
+- Test tokens on the SUI network
+- Guaranteed participation in the VRAM airdrop
+- Reward multipliers
+
+### Participation Levels
+
+1. **tVRAM Holders**
+
+   - Basic tier
+   - Guaranteed allocation
+
+2. **Active Users**
+
+   - Higher multiplier
+   - Usage-based rewards
+
+3. **Combined Participation**
+   - Maximum rewards
+   - Multiplier effect
+
+## 🔧 Technical Installation
 
 ```bash
 # Clone the repository
@@ -66,17 +168,43 @@ pnpm install
 
 # Start the development server
 pnpm start
+
+# Configuration
+cp .env.example .env
+
+Edit .env with your keys
+
+# Start in development mode
+pnpm dev
 ```
 
-### Documentation
+## 🌐 Community Hosted Agents
 
-Full documentation at [docs.vram.ai/sigmai](https://docs.vram.ai/sigmai)
+> Want to share your hosted VRAM agent? Add it to our [`FORKS.md`](FORKS.md) registry!
 
-### Community
+### 📝 How to Add Your Agent
+
+1. Fork this repository
+2. Add your agent to [`FORKS.md`](FORKS.md)
+3. Submit a Pull Request
+4. After validation, your agent will be listed!
+
+[➡️ View Community Agents](FORKS.md)
+
+## 🌐 Join the Ecosystem
+
+### Official Links
 
 - Telegram: [@VRAM_AI](https://t.me/VRAM_AI)
 - Twitter: [@VRAM_AI](https://twitter.com/VRAM_AI)
 - Forum: [VRAM.ai Forum](https://forum.vram.ai)
+
+### Documentation
+
+- [GitBook Documentation](https://vram-ai-1.gitbook.io/vram.ai)
+- [Developer Guide](https://vram-ai-1.gitbook.io/vram.ai/developers/getting-started)
+- [Tokenomics](https://vram-ai-1.gitbook.io/vram.ai/tokenomics/testnet)
+- [Website](https://www.vram.ai)
 
 ### Important Note
 
@@ -85,3 +213,11 @@ SIGMAI is currently in testnet phase. The future token launch will be based on c
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <img src="./VRAM.AI design KIT/VRAM.AI TEXT/VRAM Green.svg" alt="VRAM AI Green Logo" width="200"/>
+
+  <p><i>Let's build the future of decentralized AI together</i></p>
+</div>
