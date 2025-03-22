@@ -26,7 +26,7 @@
 - 🇷🇺 [Русский](./translations/README.ru.md)
 - 🇩🇪 [Deutsch](./translations/README.de.md)
 
-## 🌟 Vision
+## 🌟 Vision (Demo, will be updated automaticaly with mainnet of vram.ai) 
 
 VRAM AI is revolutionizing AI agent development by creating a truly decentralized ecosystem. The AI explosion has revealed limitations: centralized models, closed systems, and superficial Web3 projects. VRAM changes the game by building a truly decentralized and community-driven AI development protocol.
 
@@ -63,7 +63,7 @@ VRAM AI is revolutionizing AI agent development by creating a truly decentralize
   <h4>🏆 TradeWizard</h4>
   <p>From concept to Cetus in just 45 days</p>
   <ul align="left">
-    <li>✨ Reached 6000 $SUI market cap</li>
+    <li>✨ Reached 6000 $SUI market cap (testnet)</li>
     <li>💎 Now trading on Cetus with $17k liquidity</li>
     <li>👥 Community of 1200+ users</li>
     <li>📈 Generated 125 $SUI in fees for holders</li>
@@ -146,12 +146,13 @@ VRAM AI is revolutionizing AI agent development by creating a truly decentralize
 1. **tVRAM Holders**
 
    - Basic tier
-   - Guaranteed allocation
+   - Vram nft program top contribution
 
 2. **Active Users**
 
    - Higher multiplier
    - Usage-based rewards
+   - Quality agents (full framework)
 
 3. **Combined Participation**
    - Maximum rewards
@@ -206,9 +207,6 @@ pnpm dev
 - [Tokenomics](https://vram-ai-1.gitbook.io/vram.ai/tokenomics/testnet)
 - [Website](https://www.vram.ai)
 
-### Important Note
-
-SIGMAI is currently in testnet phase. The future token launch will be based on community contribution and AI development milestones. No promises of financial returns are made - we're building something bigger than just another trading bot.
 
 ### License
 
